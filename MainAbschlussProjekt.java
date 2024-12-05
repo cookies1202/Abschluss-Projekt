@@ -1,2 +1,5 @@
-public class MainAbschlussProjekt {
+public class MainAbschlussProjekt
+{
+PatientenKlasse p1= new PatientenKlasse("ahmed", "klosterwiesegasse", 36);
+
 }
